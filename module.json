@@ -1,0 +1,100 @@
+{
+  "id": "mhoyd-shelter",
+  "title": "Mhoyd Shelter",
+  "description": "Somewhere deep in the astral floats an island hidden from everyone by magic spells. Once the Magic Academy is now a shelter for kids from different planes. This shelter is run by Maharazin Scarlet Hammer, a former warrior, a former magician, a former Man, now a bear-like Kun defender and caretaker of the shelter. Are the children from this orphanage ready to leave it and go on adventures?? Do they have the courage, skills and knowledge to leave it to meet the worlds!",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "authors": [
+    {
+      "name": "avataromvatar"
+    }
+  ],
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Mhoyd Shelter",
+      "path": "/packs/actors.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "system": "dnd5"
+    },
+    {
+      "name": "adventure",
+      "label": "Mhoyd Shelter",
+      "path": "/packs/adventure.db",
+      "entity": "Adventure",
+      "type": "Adventure",
+      "system": "dnd5"
+    },
+    {
+      "name": "cards",
+      "label": "Mhoyd Shelter",
+      "path": "/packs/cards.db",
+      "entity": "Cards",
+      "type": "Cards"
+    },
+    {
+      "name": "items",
+      "label": "Mhoyd Shelter",
+      "path": "/packs/items.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5"
+    },
+    {
+      "name": "journals",
+      "label": "Mhoyd Shelter",
+      "path": "/packs/journals.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "macros",
+      "label": "Mhoyd Shelter",
+      "path": "/packs/macros.db",
+      "entity": "Macro",
+      "type": "Macro"
+    },
+    {
+      "name": "maps",
+      "label": "Mhoyd Shelter",
+      "path": "/packs/maps.db",
+      "entity": "Scene",
+      "type": "Scene"
+    },
+    {
+      "name": "playlists",
+      "label": "Mhoyd Shelter",
+      "path": "/packs/playlists.db",
+      "entity": "Playlist",
+      "type": "Playlist"
+    },
+    {
+      "name": "rolltables",
+      "label": "Mhoyd Shelter",
+      "path": "/packs/rolltables.db",
+      "entity": "RollTable",
+      "type": "RollTable"
+    }
+  ],
+  "esmodules": [
+    "./scripts/init.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "scene-packer",
+        "type": "module",
+        "manifest": "https://github.com/League-of-Foundry-Developers/scene-packer/releases/latest/download/module.json"
+      }
+    ]
+  },
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "manifestPlusVersion": "1.2.0"
+}
