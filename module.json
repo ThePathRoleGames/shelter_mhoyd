@@ -10,7 +10,7 @@
   },
   "authors": [
     {
-      "name": "avataromvatar"
+      "name": "Avataromvatar"
     }
   ],
   "packs": [
@@ -44,6 +44,76 @@
       "entity": "Item",
       "type": "Item",
       "system": "dnd5"
+    },
+{
+      "name": "buf_debuf",
+      "label": "Mhoyd Shelter Buf Debuf",
+      "path": "/packs/buf_debuf.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e",
+"private": false,
+      "flags": {}
+    },
+{
+      "name": "Race",
+      "label": "Mhoyd Shelter Race",
+      "path": "/packs/race.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e",
+"private": false,
+      "flags": {}
+    },
+{
+      "name": "feature",
+      "label": "Mhoyd Shelter Feature",
+      "path": "/packs/feature.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e",
+"private": false,
+      "flags": {}
+    },
+{
+      "name": "artifact",
+      "label": "Mhoyd Shelter Artifact",
+      "path": "/packs/artifact.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e",
+"private": false,
+      "flags": {}
+    },
+    {
+      "name": "gems",
+      "label": "Mhoyd Shelter Gems",
+      "path": "/packs/gems.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e",
+"private": false,
+      "flags": {}
+    },
+{
+      "name": "alchemist",
+      "label": "Mhoyd Shelter Alchemist",
+      "path": "/packs/alchemist.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e",
+"private": false,
+      "flags": {}
+    },
+    {
+      "name": "tavernfood",
+      "label": "Mhoyd Shelter TavernFood",
+      "path": "/packs/tavernfood.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e",
+"private": false,
+      "flags": {}
     },
     {
       "name": "journals",
