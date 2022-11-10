@@ -16,11 +16,11 @@
   "packs": [
     {
       "name": "actors",
-      "label": "Mhoyd Shelter",
+      "label": "Mhoyd Shelter Actors",
       "path": "/packs/actors.db",
       "entity": "Actor",
       "type": "Actor",
-      "system": "dnd5"
+      "system": "dnd5e"
     },
     {
       "name": "adventure",
@@ -28,7 +28,7 @@
       "path": "/packs/adventure.db",
       "entity": "Adventure",
       "type": "Adventure",
-      "system": "dnd5"
+      "system": "dnd5e"
     },
     {
       "name": "cards",
