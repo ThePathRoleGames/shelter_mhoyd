@@ -2,9 +2,9 @@
   "id": "mhoyd-shelter",
   "title": "Mhoyd Shelter",
   "description": "Somewhere deep in the astral floats an island hidden from everyone by magic spells. Once the Magic Academy is now a shelter for kids from different planes. This shelter is run by Maharazin Scarlet Hammer, a former warrior, a former magician, a former Man, now a bear-like Kun defender and caretaker of the shelter. Are the children from this orphanage ready to leave it and go on adventures?? Do they have the courage, skills and knowledge to leave it to meet the worlds!",
-  "version": "0.1.0",
+  "version": "0.1.1",
 "manifest": "https://raw.githubusercontent.com/ThePathRoleGames/shelter_mhoyd/master/module.json",
-  "download": "https://github.com/ThePathRoleGames/shelter_mhoyd/archive/refs/tags/v0.1.0.zip",
+  "download": "https://github.com/ThePathRoleGames/shelter_mhoyd/archive/refs/tags/v0.1.1.zip",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
